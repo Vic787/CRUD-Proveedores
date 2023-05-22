@@ -1,0 +1,13 @@
+﻿  Cliente.cpp
+  ConexionBD.cpp
+  CRUD_proveedores.cpp
+  Persona.cpp
+C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VC\v170\Microsoft.CppCommon.targets(1096,5): error MSB6006: "link.exe" salió con el código 1120.
+CRUD_proveedores.obj : error LNK2001: símbolo externo mysql_store_result sin resolver
+CRUD_proveedores.obj : error LNK2001: símbolo externo mysql_real_connect sin resolver
+CRUD_proveedores.obj : error LNK2001: símbolo externo mysql_close sin resolver
+CRUD_proveedores.obj : error LNK2001: símbolo externo mysql_query sin resolver
+CRUD_proveedores.obj : error LNK2001: símbolo externo mysql_fetch_row sin resolver
+CRUD_proveedores.obj : error LNK2001: símbolo externo mysql_init sin resolver
+CRUD_proveedores.obj : error LNK2001: símbolo externo mysql_error sin resolver
+C:\Users\alumno\Desktop\Programación 1\CRUD_proveedores\x64\Release\CRUD_proveedores.exe : fatal error LNK1120: 7 externos sin resolver
